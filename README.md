@@ -6,4 +6,4 @@ Shared materials from TDH-CEDEP-SSI eCR team
 * NACCHO360 2025 - Anaheim, CA
 
 ## Scripts/Code
-* [TDH eCR DataMart Stored Proceedure](TDHeCRDataMartStoredProceedure.sql)
+* [TDH eCR DataMart Stored Proceedure](eCR DataMart/StoredProceedure.sql)
